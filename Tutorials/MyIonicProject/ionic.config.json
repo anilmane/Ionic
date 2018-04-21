@@ -1,0 +1,8 @@
+{
+  "name": "MyIonicProject",
+  "app_id": "efdad3db",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
